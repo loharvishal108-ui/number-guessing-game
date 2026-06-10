@@ -1,7 +1,7 @@
 # number-guessing-game
 A  simple Python game where the user tries to guess the correct number.
 
-## Features
+##Features
 -Too high hint
 -Too low hint
 -Attempts counter 
